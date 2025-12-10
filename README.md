@@ -5,7 +5,7 @@ List of useful articles/papers/videos to read watch
 #### RoPE paper: https://arxiv.org/pdf/2104.09864
 #### SmolLM2: When Smol Goes Big — Data-Centric Training of a Small Language Model: https://arxiv.org/pdf/2502.02737
 #### Lessons from Scaling Synthetic Data- for Trillion-scale Pretraining: https://arxiv.org/pdf/2508.10975
-
+#### Influential Subset Selection for Language Modelhttps://arxiv.org/pdf/2305.12816
 
 #### Muon Optimizer: https://huggingface.co/blog/onekq/muon-optimizer
 
