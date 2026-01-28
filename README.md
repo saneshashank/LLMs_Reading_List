@@ -18,3 +18,8 @@ List of useful articles/papers/videos to read watch
 ### code/repos
 #### llama3-from-scratch: https://github.com/naklecha/llama3-from-scratch/blob/main/llama3-from-scratch.ipynb
 
+#### null MOE: https://arxiv.org/html/2601.15370v1
+#### Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models:https://arxiv.org/html/2601.07372v1
+
+
+
