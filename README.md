@@ -28,5 +28,8 @@ List of useful articles/papers/videos to read watch
 ### Efficient kernels
 * https://github.com/linkedin/Liger-Kernel
 
+* https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1
+* https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=high-level_overview
+
 
 
