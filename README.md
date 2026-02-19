@@ -25,5 +25,8 @@ List of useful articles/papers/videos to read watch
 * FLM-101B: An Open LLM and How to Train It with $100K Budget:https://arxiv.org/html/2309.03852v3
 * Qwen3-Next: Towards Ultimate Training & Inference Efficiency: https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list&ref=aiforradalom.poltextlab.com
 
+### Efficient kernels
+* https://github.com/linkedin/Liger-Kernel
+
 
 
