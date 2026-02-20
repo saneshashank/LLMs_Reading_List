@@ -23,6 +23,9 @@ List of useful articles/papers/videos to read watch
 
 ### mHC: Manifold-Constrained Hyper-Connections: https://arxiv.org/html/2512.24880v2
 
+### Gated DeltaNet: arXiv:2412.06464 (Dec 2024)
+### Gated Sparse Attention: arXiv:2601.15305v1 (Jan 2026)
+
 ### Model Growth
 * FLM-101B: An Open LLM and How to Train It with $100K Budget:https://arxiv.org/html/2309.03852v3
 * Qwen3-Next: Towards Ultimate Training & Inference Efficiency: https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list&ref=aiforradalom.poltextlab.com
